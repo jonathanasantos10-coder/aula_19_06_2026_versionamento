@@ -15,7 +15,7 @@ body {
     #div-form{
         width: 400;
         height:500;
-        background-color: #80505070;
+        background-color: rgba(128, 117, 80, 0.899);
         margin: 20px auto;
         padding: 40;
     }
