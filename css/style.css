@@ -11,3 +11,31 @@ body {
     h2 {
         color: green;
         }
+    
+    #div-form{
+        width: 400;
+        height:500;
+        background-color: #80505070;
+        margin: 20px auto;
+        padding: 40;
+    }
+
+    label{
+        display: block;
+        margin-right: 500px;
+        padding: 10px 0px;
+        
+    }
+
+    input{
+        display: block;
+        margin: 10px 0px
+        
+    }
+
+    #div-dados{
+        width: 100%;
+        height: 80px;
+        margin: 50px 0px;
+        background-color: #ffffff;
+    }
